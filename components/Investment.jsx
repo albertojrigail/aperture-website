@@ -21,7 +21,7 @@ export default function Investment() {
       </div>
 
       <Link href="/contact">
-        <button class="flex mx-auto mt-56 text-white bg-blue-500 border-0 py-2 px-8 focus:outline-none hover:bg-blue-600 rounded text-lg">Contact us</button>
+        <button className="flex mx-auto mt-56 text-white bg-blue-500 border-0 py-2 px-8 focus:outline-none hover:bg-blue-600 rounded text-lg">Contact us</button>
       </Link>
     </section>
   )

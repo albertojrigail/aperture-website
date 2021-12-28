@@ -40,7 +40,7 @@ function Hero() {
                 <span className="hero-gradient-heading">Aperture Science.<br/></span>{mottos[index]}
             </h1>
             <p className="text-center max-w-3xl text-xl mb-4 font-medium text-[#0082C4]">
-                We are Aperture. The world's leading company, engineering products from the far future, now. Aperture's mission is to deliver high-quality products to the humanity, because we can.
+                We are Aperture. The world&apos;s leading company, engineering products from the far future, now. Aperture&apos;s mission is to deliver high-quality products to the humanity, because we can.
             </p>
         </div>
     )
